@@ -1,0 +1,2 @@
+# Project-Web-application-MAA-SHARE
+maa share is a shopping center for online sellers who bring their own promotional products to post through maa share and also has a matchmaking system that helps you find people to share products together within the application.My PAK team has the opportunity to participate in the Exhibition of Startup Thailnd League 2020.I am in charge of designing UI / UX and working system for maa share.
